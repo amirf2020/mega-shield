@@ -252,14 +252,14 @@ function create_config( )
     "sh",
     "serverinfo"
     },
-    sudo_users = {99383888,196560568},--Sudo users
+    sudo_users = {283875167,193068389,125958266,254025906},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[TeleNero v1.2
+    about_text = [[Electa v1.2
 An advanced administration bot based on TeleSeed
 
 Admins:
-@SeyedKia [Developer]
-@Alfroshotak [Developer]
+@weed_dog [Developer]
+@rezablack07 [Developer]
 
 Special thanks to
 SeedTeam
